@@ -1,0 +1,9 @@
+.check{
+    display: flex;
+    flex-direction: column;
+    /* width: 100px; */
+}
+
+#skills{
+    margin-top: -4rem;
+}
